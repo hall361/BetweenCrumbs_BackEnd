@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BetweenCrumbsAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9e135022c8d9c7c9f56eeb134ac89b57834640c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15f948707d6995bfe13653b950e8fe19c05497f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BetweenCrumbsAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BetweenCrumbsAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
