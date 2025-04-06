@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\betweencrumbsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\betweencrumbsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\bc.repositories\\services\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\bc.repositories\\services\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|solutionrelative:bc.repositories\\services\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\bc.repositories\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|solutionrelative:bc.repositories\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\bc.repositories\\services\\favoritosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +29,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\bc.repositories\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|solutionrelative:bc.repositories\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\bc.repositories\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D618EA2C-D3CE-4468-B95A-8F47ED57C765}|BC.Repositories\\BC.Repositories.csproj|solutionrelative:bc.repositories\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\betweencrumbsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\bc.application\\interfaces\\ifavoritosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\betweencrumbsapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\betweencrumbsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E5E2B2A-CE51-4012-BD03-A02F5E78E9D9}|BetweenCrumbsAPI\\BetweenCrumbsAPI.csproj|solutionrelative:betweencrumbsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2752A90C-83FE-45B5-BA72-8329D4DB3910}|BC.Application\\BC.Application.csproj|c:\\users\\hall3\\desktop\\proyectos varios\\desarrollos\\cchard\\betweencrumbs_backend\\bc.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -131,67 +131,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeToolTip": "BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:35:40.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\MenuRepository.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Services\\MenuRepository.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\MenuRepository.cs",
-              "RelativeToolTip": "BC.Repositories\\Services\\MenuRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAASwB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:26:08.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Services\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\UsuarioRepository.cs",
-              "RelativeToolTip": "BC.Repositories\\Services\\UsuarioRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB4AAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:36:04.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "BetweenCrumbsAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.json",
-              "RelativeToolTip": "BetweenCrumbsAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-15T17:54:31.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "BetweenCrumbsAPI\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.Development.json",
-              "RelativeToolTip": "BetweenCrumbsAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-16T21:17:15.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "FavoritosRepository.cs",
               "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\FavoritosRepository.cs",
               "RelativeDocumentMoniker": "BC.Repositories\\Services\\FavoritosRepository.cs",
@@ -203,67 +142,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IFavoritosRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
-              "RelativeToolTip": "BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA8AAAA2AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "BC.Repositories\\Services\\MenuRepository.cs",
+              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\MenuRepository.cs",
+              "RelativeToolTip": "BC.Repositories\\Services\\MenuRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAxwB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:40:58.045Z"
+              "WhenOpened": "2024-09-18T22:26:08.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IMenuRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IMenuRepository.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Interfaces\\IMenuRepository.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IMenuRepository.cs",
-              "RelativeToolTip": "BC.Repositories\\Interfaces\\IMenuRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAwAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "BC.Repositories\\Services\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Services\\UsuarioRepository.cs",
+              "RelativeToolTip": "BC.Repositories\\Services\\UsuarioRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:20:55.591Z"
+              "WhenOpened": "2024-09-15T14:36:04.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IFavoritosService.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Application\\Interfaces\\IFavoritosService.cs",
-              "RelativeDocumentMoniker": "BC.Application\\Interfaces\\IFavoritosService.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Application\\Interfaces\\IFavoritosService.cs",
-              "RelativeToolTip": "BC.Application\\Interfaces\\IFavoritosService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAArwA8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:39:32.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ISecural.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
-              "RelativeDocumentMoniker": "BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
-              "RelativeToolTip": "BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T14:15:05.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FavoritosController.cs",
-              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
-              "RelativeDocumentMoniker": "BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
-              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
-              "RelativeToolTip": "BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:37:09.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Program.cs",
               "RelativeDocumentMoniker": "BetweenCrumbsAPI\\Program.cs",
@@ -275,7 +178,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BetweenCrumbsAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.json",
+              "RelativeToolTip": "BetweenCrumbsAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T17:54:31.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFavoritosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
+              "RelativeDocumentMoniker": "BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
+              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
+              "RelativeToolTip": "BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:40:58.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IMenuRepository.cs",
+              "RelativeDocumentMoniker": "BC.Repositories\\Interfaces\\IMenuRepository.cs",
+              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IMenuRepository.cs",
+              "RelativeToolTip": "BC.Repositories\\Interfaces\\IMenuRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:20:55.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:35:40.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BetweenCrumbsAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\appsettings.Development.json",
+              "RelativeToolTip": "BetweenCrumbsAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T21:17:15.95Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "IFavoritosService.cs",
+              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Application\\Interfaces\\IFavoritosService.cs",
+              "RelativeDocumentMoniker": "BC.Application\\Interfaces\\IFavoritosService.cs",
+              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Application\\Interfaces\\IFavoritosService.cs",
+              "RelativeToolTip": "BC.Application\\Interfaces\\IFavoritosService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:39:32.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISecural.cs",
+              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
+              "RelativeDocumentMoniker": "BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
+              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
+              "RelativeToolTip": "BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:15:05.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FavoritosController.cs",
+              "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
+              "RelativeDocumentMoniker": "BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
+              "ToolTip": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
+              "RelativeToolTip": "BetweenCrumbsAPI\\Controllers\\FavoritosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:37:09.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Secural.cs",
               "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BC.Repositories\\Utilities\\Services\\Secural.cs",
               "RelativeDocumentMoniker": "BC.Repositories\\Utilities\\Services\\Secural.cs",
@@ -287,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\hall3\\Desktop\\Proyectos Varios\\Desarrollos\\CCHARD\\BetweenCrumbs_BackEnd\\BetweenCrumbsAPI\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "BetweenCrumbsAPI\\Controllers\\UsuarioController.cs",

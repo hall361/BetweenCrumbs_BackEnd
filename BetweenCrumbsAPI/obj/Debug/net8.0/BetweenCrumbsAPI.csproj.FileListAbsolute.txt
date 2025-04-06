@@ -241,10 +241,10 @@ C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd
 C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BetweenCrumbsAPI.props
 C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BetweenCrumbsAPI.props
 C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenC.C1A4B157.Up2Date
 C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.dll
 C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\refint\BetweenCrumbsAPI.dll
 C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.pdb
 C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\BetweenCrumbsAPI.genruntimeconfig.cache
 C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\ref\BetweenCrumbsAPI.dll
+C:\Users\hall3\Desktop\Proyectos Varios\Desarrollos\CCHARD\BetweenCrumbs_BackEnd\BetweenCrumbsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

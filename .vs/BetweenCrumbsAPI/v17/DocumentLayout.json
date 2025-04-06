@@ -138,8 +138,7 @@
               "RelativeToolTip": "BC.Repositories\\Services\\FavoritosRepository.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAApwGQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:40:28.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T23:40:28.676Z"
             },
             {
               "$type": "Document",
@@ -151,8 +150,7 @@
               "RelativeToolTip": "BC.Repositories\\Services\\MenuRepository.cs",
               "ViewState": "AgIAABUAAAAAAAAAAIAxwB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:26:08.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T22:26:08.428Z"
             },
             {
               "$type": "Document",
@@ -164,8 +162,7 @@
               "RelativeToolTip": "BC.Repositories\\Services\\UsuarioRepository.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:36:04.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T14:36:04.852Z"
             },
             {
               "$type": "Document",
@@ -177,8 +174,7 @@
               "RelativeToolTip": "BetweenCrumbsAPI\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:09:07.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T16:09:07.857Z"
             },
             {
               "$type": "Document",
@@ -203,8 +199,7 @@
               "RelativeToolTip": "BC.Repositories\\Interfaces\\IFavoritosRepository.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:40:58.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T23:40:58.045Z"
             },
             {
               "$type": "Document",
@@ -216,8 +211,7 @@
               "RelativeToolTip": "BC.Repositories\\Interfaces\\IMenuRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAgwAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:20:55.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T22:20:55.591Z"
             },
             {
               "$type": "Document",
@@ -229,8 +223,7 @@
               "RelativeToolTip": "BC.Repositories\\Interfaces\\IUsuarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:35:40.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T14:35:40.904Z"
             },
             {
               "$type": "Document",
@@ -242,8 +235,7 @@
               "RelativeToolTip": "BetweenCrumbsAPI\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-16T21:17:15.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T21:17:15.95Z"
             },
             {
               "$type": "Document",
@@ -255,8 +247,7 @@
               "RelativeToolTip": "BC.Application\\Interfaces\\IFavoritosService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAArwA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:39:32.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T23:39:32.52Z"
             },
             {
               "$type": "Document",
@@ -268,8 +259,7 @@
               "RelativeToolTip": "BC.Repositories\\Utilities\\Interfaces\\ISecural.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T14:15:05.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T14:15:05.736Z"
             },
             {
               "$type": "Document",
@@ -294,8 +284,7 @@
               "RelativeToolTip": "BC.Repositories\\Utilities\\Services\\Secural.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAcwFYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T16:54:16.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T16:54:16.589Z"
             },
             {
               "$type": "Document",
@@ -307,8 +296,7 @@
               "RelativeToolTip": "BetweenCrumbsAPI\\Controllers\\UsuarioController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAADwvyAAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:20:14.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T14:20:14.798Z"
             },
             {
               "$type": "Document",
@@ -320,8 +308,7 @@
               "RelativeToolTip": "BC.Application\\Services\\UsuarioService.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:27:17.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T14:27:17.884Z"
             },
             {
               "$type": "Document",
@@ -333,8 +320,7 @@
               "RelativeToolTip": "BC.Models\\Dtos\\Usuario\\UsuarioRequestDto.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAASwAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:24:08.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T14:24:08.001Z"
             },
             {
               "$type": "Document",
@@ -346,8 +332,7 @@
               "RelativeToolTip": "BC.Models\\Dtos\\ResponseDto.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowBUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:50:54.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T14:50:54.583Z"
             },
             {
               "$type": "Document",
@@ -359,8 +344,7 @@
               "RelativeToolTip": "BetweenCrumbsAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T21:17:22.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T21:17:22.567Z"
             },
             {
               "$type": "Document",
@@ -372,8 +356,7 @@
               "RelativeToolTip": "BetweenCrumbsAPI\\Controllers\\MenuController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAhwBkAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:43:59.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T22:43:59.871Z"
             },
             {
               "$type": "Document",
@@ -385,8 +368,7 @@
               "RelativeToolTip": "BC.Application\\Services\\MenuService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:50:14.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T22:50:14.752Z"
             },
             {
               "$type": "Document",
@@ -398,8 +380,7 @@
               "RelativeToolTip": "BC.Models\\Dtos\\Favoritos\\FavoritosResponseDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T13:50:25.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T13:50:25.065Z"
             },
             {
               "$type": "Document",
@@ -411,8 +392,7 @@
               "RelativeToolTip": "BC.Application\\Interfaces\\IMenuService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAwwAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T22:49:59.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T22:49:59.969Z"
             },
             {
               "$type": "Document",
@@ -424,8 +404,7 @@
               "RelativeToolTip": "BC.Application\\Services\\FavoritosService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAwwB0AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T23:39:15.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T23:39:15.428Z"
             },
             {
               "$type": "Document",
@@ -437,8 +416,7 @@
               "RelativeToolTip": "BC.Models\\Dtos\\Favoritos\\FavoritosRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T13:49:26.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T13:49:26.697Z"
             },
             {
               "$type": "Document",
@@ -450,8 +428,7 @@
               "RelativeToolTip": "BC.Application\\Interfaces\\IUsuarioService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAgwAwAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:27:00.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T14:27:00.886Z"
             },
             {
               "$type": "Document",
@@ -463,8 +440,7 @@
               "RelativeToolTip": "BC.Models\\Dtos\\Menu\\MenuResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:56:10.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T16:56:10.839Z"
             },
             {
               "$type": "Document",
@@ -476,8 +452,7 @@
               "RelativeToolTip": "BC.Models\\Dtos\\Usuario\\UsuarioResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T20:14:38.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T20:14:38.031Z"
             },
             {
               "$type": "Document",
@@ -489,8 +464,7 @@
               "RelativeToolTip": "BC.Models\\Dtos\\Usuario\\UsuarioCodigoVerificacionResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:33:22.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T15:33:22.612Z"
             }
           ]
         }
